@@ -16,7 +16,7 @@
 
 - token
 	 `Token del Bot`
-	 ![](Imagenes/Father.png)
+	 ![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/Bot%20Father.png)
 	 >Debes crear el Bot que te otorgara el  Token.
 
 - id
