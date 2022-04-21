@@ -24,7 +24,7 @@
 	 ![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/bot_id.png)
 	 >Enlace para conseguir el ID https://telegram.me/userinfobot
 
-	 >![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/Saber-id.png)
+	 >![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/menssage.png)
 
 ####Instalación:
 
