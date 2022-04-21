@@ -16,15 +16,15 @@
 
 - token
 	 `Token del Bot`
-	 ![](https://raw.githubusercontent.com/Zud0k4t0-SkyDark/colores/main/Bot%20Father.png?token=GHSAT0AAAAAABTAH4COEIAYKDFZIDAPYFYQYSDE27Q)
+	 ![](Imagenes/Father.png)
 	 >Debes crear el Bot que te otorgara el  Token.
 
 - id
 	 `Id del Usuario al cual enviar el mensaje`
-	 ![](https://raw.githubusercontent.com/Zud0k4t0-SkyDark/colores/main/aaaaa.png?token=GHSAT0AAAAAABTAH4COLGOZOTZ6P23PISDSYSDFE3Q)
+	 ![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/bot_id.png)
 	 >Enlace para conseguir el ID https://telegram.me/userinfobot
 
-	 >![](https://raw.githubusercontent.com/Zud0k4t0-SkyDark/colores/main/a.png?token=GHSAT0AAAAAABTAH4CPCVWD3QNL3724GIZWYSDFGRA)
+	 >![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/Saber-id.png)
 
 ####Instalación:
 
