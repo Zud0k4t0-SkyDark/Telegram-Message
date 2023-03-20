@@ -1,15 +1,15 @@
 
-#Send-Telegram:
+# Send-Telegram:
 ![](https://img.shields.io/badge/Dependencies-scrot-green!) ![](https://img.shields.io/badge/Dependencies-Token-green) ![](https://img.shields.io/badge/Dependencies-Id-green) ![](https://img.shields.io/badge/Version-1.0-blue)
 - Send-Telegram es una herramienta automatizada de envio de Mensajes/Documentos/Imagenes
 - Tambien se puede enviar ScreenShots
 - Facil de Usar
 - Se Creara un Archivo `config` para guardar  el token y el id
 
-####Compatibilidad:
+#### Compatibilidad:
 - Linux, Termux (Solo que el envio de ScreenShots aun no se puede.)
 
-####Dependencies:
+#### Dependencies:
 `telegram` requiere de esto :
 - scrot
 	`sudo apt.get install scrot`
