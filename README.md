@@ -26,7 +26,7 @@
 
 	 >![](https://github.com/Zud0k4t0-SkyDark/Telegram-Message/blob/main/Imagenes/menssage.png)
 
-####Instalación:
+#### Instalación:
 
 `$ git clone https://github.com/Zud0k4t0-SkyDark/Send-Telegram`
 
